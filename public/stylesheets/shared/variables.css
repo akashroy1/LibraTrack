@@ -1,8 +1,6 @@
 :root {
   --danger-btn: #1e90ff;
-  /* --color-base-hue: 200;
-  --color-danger-hue-offset: 180; */
-  --color-danger-hue: red; /*calc(var(--color-base-hue) - var(--color-danger-hue-offset))*/
+  --color-danger-hue: red;
   --color-background-dark: black;
   --color-background-light: white;
   --color-text-light: black;
